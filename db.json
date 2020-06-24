@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "title": "AirPods 2 Charging Case",
+      "price": 143.23,
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MV7N2?wid=1144&hei=1144&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1551489688005"
+    },
+    {
+      "title": "Apple Pencil (Generation 1)",
+      "price": 109.71,
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MK0C2?wid=1144&hei=1144&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1564075356758"
+    },
+    {
+      "title": "iPad mini",
+      "price": 448.53,
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-mini-select-201911_GEO_TH_LANG_TH_FMT_WHH?wid=2000&amp;hei=2000&amp;fmt=jpeg&amp;qlt=80&amp;op_usm=0.5,0.5&amp;.v=1574902967433"
+    },
+    {
+      "title": "Mac Mini",
+      "price": 819.62,
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mac-mini-witb-201810_FMT_WHH?wid=564&hei=744&fmt=png-alpha&qlt=80&.v=1540491479387"
+    },
+    {
+      "title": "iPhone SE",
+      "price": 480.8,
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-se-family-select-2020?wid=882&amp;hei=1058&amp;fmt=jpeg&amp;qlt=80&amp;op_usm=0.5,0.5&amp;.v=1586794486444"
+    },
+    {
+      "title": "MacBook Air",
+      "price": 1061.63,
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/macbook-air-gold-select-201810?wid=892&hei=820&&qlt=80&.v=1541713859040"
+    },
+    {
+      "title": "MacBook Pro",
+      "price": 2900.94,
+      "image": "https://www.gadguan.com/wp-content/uploads/2019/07/Apple-macbook-air-and-macbook-pro-update-macos-catalina-070919.jpg"
+    },
+    {
+      "title": "Apple",
+      "price": 0.03,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSBpjanH3_s735rbuweGfK3Kf5lQAic0vcLnQnratBbvS2hFLQY&usqp=CAU"
+    },
+    {
+      "title": "Apple Watch Series 5",
+      "price": 1368.18,
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MTPK2_VW_34FR+watch-44-alum-silver-nc-5s_VW_34FR_WF_CO?wid=750&hei=712&trim=1,0&fmt=p-jpg&qlt=80&op_usm=0.5,0.5&.v=1566419578393,1569365637670"
+    },
+    {
+      "title": "Apple TV HD",
+      "price": 199.06,
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/apple-tv-hero-select-201510_FMT_WHH?wid=335&hei=330&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1503607251341"
+    },
+    {
+      "title": "Nintendo Switch",
+      "price": 514.64,
+      "image": "https://www.jib.co.th/img_master/product/original/2020051809405931227_1.png"
+    },
+    {
+      "title": "Playstation 4",
+      "price": 450.27,
+      "image": "https://cf.shopee.co.th/file/63e3b13c59da55a4cd8ca49627df51c6"
+    },
+    {
+      "title": "S20 Ultra 5G (Cloud White) & AKG N700",
+      "price": 1284.22,
+      "image": "https://images.samsung.com/is/image/samsung/th-galaxy-s20-ultra-5g-with-akg-n700-f-n988zwi700ha-thumb-255522579?$PF_PRD_PNG$"
+    },
+    {
+      "title": "Galaxy A21s",
+      "price": 251.01,
+      "image": "https://images.samsung.com/is/image/samsung/th-galaxy-a21s-sm-a217fzbfthl-front-249327820?$PD_GALLERY_L_JPG$"
+    },
+    {
+      "title": "Galaxy XCover 4s",
+      "price": 323.27,
+      "image": "https://images.samsung.com/is/image/samsung/th-galaxy-xcover-4s-g398-sm-g398fzkdthl-frontblack-236869921?$PD_GALLERY_L_JPG$"
+    },
+    {
+      "title": "Galaxy M11",
+      "price": 160.61,
+      "image": "https://images.samsung.com/is/image/samsung/th-galaxy-m11-m115-sm-m115fmbdthl-frontblue-222380488?$PD_GALLERY_L_JPG$"
+    }
+  ]
+}
